@@ -82,7 +82,7 @@ def divisao(n1: float, n2: float):
     if n1 == 0 or n2 == 0:
         return {'Erro': 'Não é possível dividir valores com 0'}
     try:
-        operacao = 'soma'
+        operacao = 'divisao'
         n1 = float(n1)
         n2 = float(n2)
         n3 = n1 / n2
