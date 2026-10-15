@@ -1,0 +1,5 @@
+## Calculadora API
+-----
+Essa calculadora salva todos os calculos feito por qualquer um que tenha utilizado! \
+Na versão atual `1.0` é possível fazer soma, subtração e divisão de dois valores com os seguintes endpoints:\
+`/soma/n1/n2`, `/subtracao/n1/n2` e `/divisao/n1/n2`. Na subtração seria mesma coisa que `n1 - n2`, o mesmo segue para divisão.
